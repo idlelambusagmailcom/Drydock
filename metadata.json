@@ -1,0 +1,8 @@
+{
+  "name": "DRYDOCK",
+  "description": "Sandbox spaceship builder and test-flight arena. Paint custom hulls, drag and drop systems, balance power, and fly your fleet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
